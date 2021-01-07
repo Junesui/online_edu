@@ -13,6 +13,12 @@
 	<packaging>pom</packaging>
 
 	<dependencies>
+	
+	   <dependency>
+	       <groupId>com.june</groupId>
+	       <artifactId>service_base</artifactId>
+	       <version>0.0.1</version>
+	   </dependency>
 
 		<!-- <dependency>
 			<groupId>org.springframework.cloud</groupId>
